@@ -1,0 +1,18 @@
+#youtube Link : https://www.youtube.com/watch?v=mb8WOHejlT8
+email triggers
+enable 
+E-mail Notification
+SMTP server
+smtp.gmail.com
+Default user e-mail suffix
+@gmail.com
+
+SMTP authentification 
+give your mail ID 
+give your Mail passwd 
+
+select ssl
+
+SMTP PORT -465
+
+click on test connection if getting error use this link for enable  activation to mail # https://www.google.com/accounts/DisplayUnlockCaptcha
